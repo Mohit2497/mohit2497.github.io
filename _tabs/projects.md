@@ -9,8 +9,8 @@ order: 3
 **Here are my latest projects and work**:
 
 <!-- - **[View All Projects](/categories/projects/)** - See all my projects in one place -->
-- **[AI & ML](/categories/AI-Machine-Learning/)** - Machine learning and Generative AI projects  
-- **[Data Analytics & Engineering](/categories/Data-Analytics-Engineering/)** - Data pipeline and analytics projects
+- **[AI & ML](/categories/ai-machine-learning/)** - Machine learning and Generative AI projects  
+- **[Data Analytics & Engineering](/categories/data-analytics-engineering/)** - Data pipeline and analytics projects
 
 ---
 

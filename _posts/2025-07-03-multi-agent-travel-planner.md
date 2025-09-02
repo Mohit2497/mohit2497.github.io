@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Travel Itinerary Planner"
 date: 2025-07-03 10:00:00 +0000
-categories: [AI-Machine-Learning]
+categories: [AI-Machine-Learning, Projects]
 tags: [multiagent, nlp, automation, ai, langchain, travel]
 image:
   path: /assets/img/projects/travel-planner.png

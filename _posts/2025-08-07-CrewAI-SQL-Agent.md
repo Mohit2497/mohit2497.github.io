@@ -1,7 +1,7 @@
 ---
 title: "CrewAI SQL Agent"
 date: 2025-08-07 10:00:00 +0000
-categories: [AI-Machine-Learning]
+categories: [AI-Machine-Learning, Projects]
 tags: [ai, sql, streamlit, automation, crewai, langchain, multi-agent]
 image:
   path: /assets/img/projects/crewai-sql-agent.png

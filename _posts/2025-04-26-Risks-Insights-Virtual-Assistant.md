@@ -1,7 +1,7 @@
 ---
 title: "Risk Insights Virtual Assistant"
 date: 2025-04-26 10:00:00 +0000
-categories: [AI-Machine-Learning]
+categories: [AI-Machine-Learning, Projects]
 tags: [azure, ml, anomaly-detection, streamlit, sensors, ai]
 image:
   path: /assets/img/projects/riva-app.png

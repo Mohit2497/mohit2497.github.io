@@ -1,7 +1,7 @@
 ---
 title: " YouTube Data Engineering Pipeline"
 date: 2025-06-06 10:00:00 +0000
-categories: [Data-Analytics-Engineering]
+categories: [Data-Analytics-Engineering, Projects]
 tags: [aws, s3, lambda, glue, athena, youtube, data-pipeline, analytics]
 image:
   path: /assets/img/projects/youtube-pipeline.png

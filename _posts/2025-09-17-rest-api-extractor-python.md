@@ -11,7 +11,7 @@ image:
 
 I’m currently following **Zac Wilson’s Beginner Data Engineering Bootcamp** on [DataExpert.io](https://dataexpert.io), and this week I completed **Module 2.1**, which focuses on building a simple **REST API extractor** using Python.  
 
-The goal of this mini-project was to build a script that connects to the [Polygon.io](https://polygon.io) API, pulls stock ticker data, and saves it into a clean CSV file. It’s a small but important milestone: reading data from an external API, handling multiple pages of results, and producing a structured dataset that’s ready for analysis.  
+The goal of this mini-project is to build a script that connects to the [Polygon.io](https://polygon.io) API, pulls stock ticker data, and saves it into a clean CSV file. It’s a small but important milestone: reading data from an external API, handling multiple pages of results, and producing a structured dataset that’s ready for analysis.  
 
 ---
 
@@ -27,3 +27,5 @@ This project contains a single Python script, `script.py`, which:
 
 You can find the source code for this project here:  
 🔗 [stock-trading-python-app](https://github.com/Mohit2497/stock-trading-python-app)
+
+👉 Huge thanks to **Zac Wilson** for launching this free learning resource for aspiring data engineers! 

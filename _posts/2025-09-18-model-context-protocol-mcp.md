@@ -91,3 +91,9 @@ If you want to try it, the tutorial I followed is a great starting point:
 [Model Context Protocol (MCP) — an end-to-end tutorial (hands-on)](https://busesenol.medium.com/model-context-protocol-mcp-an-end-to-end-tutorial-with-hands-on-project-c6b9ffee03d7)
 
 Feel free to reach out if you want the `main.py` snippet or a sandboxed example to try locally.
+
+## Repository
+
+You can find the project source code in the repo:
+
+- [MCP server project (source)](https://github.com/Mohit2497/Project-Based-Learnings/tree/main/mcp-server-project)

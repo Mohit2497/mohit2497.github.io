@@ -5,7 +5,7 @@ categories: [Blog, Data-Engineering]
 tags: [python]
 excerpt: "Module 4 - Data Pipeline Scheduler"
 image:
-    path: assets/img/blog/module5.jpeg 
+    path: /assets/img/blog/module5.jpeg 
     alt: Pipeline Scheduler
 ---
 

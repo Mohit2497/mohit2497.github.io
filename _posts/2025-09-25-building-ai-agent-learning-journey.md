@@ -14,6 +14,10 @@ My goal was to build a personal AI assistant capable of understanding and answer
 
 This blog captures the process, lessons learned, and technical milestones from each stage of the bootcamp.
 
+**🔗 Project Links:**
+- **[Live Demo](https://ai-hero.streamlit.app/)** — Try the deployed Repo Assistant
+- **[GitHub Repository](https://github.com/Mohit2497/ai-hero)** — View the source code
+
 ---
 
 ## Step 1: Ingesting the Data
